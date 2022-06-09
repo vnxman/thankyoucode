@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Danny Nguyen.
-- 👀 I’m interested in blockchain technology and its ecosytems.
-- 🌱 I’m currently learning blockchain industry from dev to business.
-- 💞️ I’m looking to collaborate on blockchain development.
-- 📫 You can reach me by email: thankyou.code@gmail.com 
+
